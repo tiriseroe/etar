@@ -22,7 +22,7 @@ Usage:
        https://www.grc.com/passwords.htm for secure password info
        $(basename ${0}) -c target_file source_list
        $(basename ${0}) -d target_file 
-       $(basename ${0}) -k 
+       $(basename ${0}) -p 
 Notes:
        -c compress encrypted tar file
        -d decompress encrypted tar file
